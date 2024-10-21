@@ -9,7 +9,7 @@ Welcome to the **Music Webpage**! This project is a simple and interactive music
 - Interactive music player with visual feedback.
 
 ## Demo
-You can try the live demo of the project here: 
+You can try the live demo of the project here: https://web-developer888.github.io/Music/
 
 Technologies Used 🛠️
 
